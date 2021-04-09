@@ -8,3 +8,4 @@ function code {
 
 code paper-fantasy-api
 code paper-fantasy-front
+code paper-fantasy-admin
